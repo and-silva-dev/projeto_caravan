@@ -1,5 +1,5 @@
 body{
-	/* height: 3000px; */
+	height: 3000px;
 	padding-top: 76px;
 }
 .box-shadow{
@@ -9,4 +9,7 @@ body{
 }
 .border_radius{
 	border-radius: 0px 4px 4px 0px !important;
+}
+.icone{
+	height: 100px;
 }
